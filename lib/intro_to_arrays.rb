@@ -6,7 +6,7 @@ def array_with_two_elements
   my_two_array = ["parker", "cookie"]
 end
 
-def first_element(array, index_number)
+def first_element(my_first_element)
   two_cats[0]
 end
 
