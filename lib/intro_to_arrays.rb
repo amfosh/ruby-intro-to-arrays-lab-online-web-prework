@@ -3,7 +3,7 @@ def instantiate_new_array
 end
 
 def array_with_two_elements
-  two_cats = ["taylor_swift", "cookie"]
+  my_two_array = ["parker","cookie"]
 end
 
 def first_element(array, index_number)
